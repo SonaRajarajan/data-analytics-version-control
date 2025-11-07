@@ -1,4 +1,6 @@
-# NYC Airbnb Data Analytics - Git Version Control Project
+# CSE3505 Foundation of Data Analytics
+# Digital Assignment 
+# Git Version Control Project - NYC Airbnb Data Analytics
 # Reg No - 22mia1161 - Name: V R Sona
 
 > **CSE3505 Assignment** | Dr. R. Jothi | Due: 07 Nov 2025
