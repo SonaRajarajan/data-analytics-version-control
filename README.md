@@ -1,5 +1,4 @@
-# CSE3505 Foundation of Data Analytics
-# Digital Assignment 
+# CSE3505 Foundation of Data Analytics - Digital Assignment 
 # Git Version Control Project - NYC Airbnb Data Analytics
 # Reg No - 22mia1161 - Name: V R Sona
 
